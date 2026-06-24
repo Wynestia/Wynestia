@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Liveday Wynestia 👋</h1>
+<h1 align="center">Hi there, I'm Adsadawut Thumavanit 👋</h1>
 
 <p align="center">
   <em>Data science's student with less sleeping 😴☕</em>
@@ -17,7 +17,6 @@
 
 - 🎓 Data Science student at **KMITL** (King Mongkut's Institute of Technology Ladkrabang)
 - 🧠 Interested in **Machine Learning**, **Deep Learning**, **MLOps**, and **Data Engineering**
-- 🇹🇭 Working on Thai-language ML projects (character/number recognition, etc.)
 - ☕ Running on caffeine and curiosity
 
 ---
@@ -50,7 +49,7 @@
 | [WCC-Senior-Project](https://github.com/Wynestia/WCC-Senior-Project) | Senior capstone project |
 | [MLops_Capstone](https://github.com/Wynestia/MLops_Capstone) | End-to-end MLOps capstone project |
 | [Online-Retail-Data-Pipeline](https://github.com/Wynestia/Online-Retail-Data-Pipeline) | Data engineering pipeline for online retail data |
-| [Thai-Character-Number-Recognition](https://github.com/Wynestia/Thai-Character-Number-Recognition) | Project for *Deep Learning in Medical Image and Video Analysis* |
+| [Thai-Character-Number-Recognition](https://github.com/Wynestia/Thai-Character-Number-Recognition) | Project for *Deep Learning in Medical Image and Video Analysis Class* |
 | [Introvert-From-Extrovert](https://github.com/Wynestia/Introvert-From-Extrovert) | ML practice notebook |
 
 ---
